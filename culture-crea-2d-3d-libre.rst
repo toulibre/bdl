@@ -31,11 +31,10 @@ Et d’autres !
 
 Le Samedi 21 Novembre 2015 de 9h30 à 18h30
 ====================
-
+C'est portes ouvertes pour cette journée
 
 Au `Fablab Artilect <http://www.artilect.fr/contact/>`_
 ==================
-
 - 27bis Allées Maurice Sarraut
 - 31300 Toulouse
 - Métro Patte d’Oie (Ligne A) | Métro Arène (Ligne A-C) | Tram (T1) | Bus 14, 34, 45, 46, 65, 66, 67
@@ -46,33 +45,41 @@ L'entré est libre et gratuite, la buvette du Fablab vous permettra de vous rafr
 
 Les conférences 
 ===============
+Attention les horaires et les salles indiqué dans les liens de description ne sont plus valides.
 
-9h55 - 10h00
+Introduction (9h55 - 10h00)
 -----
 Bienvenue aux Bazars du Libre 2015 section Culture et multimédia libre
 
-11h30 - 12h30
+Concevoir la mécanique d'un robot sous FreeCAD (11h30 - 12h30)
 -----
-Concevoir la mécanique d'un robot sous FreeCAD – Alexandre LABURE
+Par Alexandre LABURE
 
-https://2015.capitoledulibre.org/programme/presentation/91/
+`Description <https://2015.capitoledulibre.org/programme/presentation/91/>`_
 
-14h00 - 14h30
+Pepper&Carrot, un webcomic libre en 2015 (14h00 - 14h30)
 -----
-Pepper&Carrot, un webcomic libre en 2015. - - David REVOY
-https://2015.capitoledulibre.org/programme/presentation/5/
+Par David REVOY
+
+`Description <https://2015.capitoledulibre.org/programme/presentation/5/>`_
 
 14h30 - 15h00
 -----
 FreeCAD, une plateforme de design hackable - Yorik Van havre
 
-15h00 - 15h30
------
-Fablabs libres ? Où en est-on vraiment aujourd'hui ? - Matthieu Dupont de Dinechin
+`Description <
 
-15h30 - 16h00
+Fablabs libres ? Où en est-on vraiment aujourd'hui ? (15h00 - 15h30)
 -----
-ZeMarmot — Film Libre créé avec des Logiciels Libres - Jehan https://2015.capitoledulibre.org/programme/presentation/25/
+Par Matthieu Dupont de Dinechin
+
+`Description <
+
+ZeMarmot — Film Libre créé avec des Logiciels Libres (15h30 - 16h00)
+-----
+Par Jehan 
+
+`Description <https://2015.capitoledulibre.org/programme/presentation/25/>`_
 
 16h00 - 16h30
 -----
