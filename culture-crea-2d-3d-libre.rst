@@ -58,16 +58,43 @@ http://osm.org/go/xVYACKEU0?m=
 
 L'entré est libre et gratuite, une buvette sur place vous permettra de vous rafraichir.
 
-<iframe>http://umap.openstreetmap.fr/fr/map/bazar-du-libre-les-lieux_60692#14/43.6037/1.4494</iframe>
-
 Les conférences 
-----------------
-- FreeCAD, une plateforme de design hackable - Yorik Van havre https://2015.capitoledulibre.org/programme/presentation/2/
-- Dessin d'animation avec Krita - Timothée Giet https://2015.capitoledulibre.org/programme/presentation/61/
-- ZeMarmot — Film Libre créé avec des Logiciels Libres - Jehan https://2015.capitoledulibre.org/programme/presentation/25/
-- Pepper&Carrot, un webcomic libre en 2015. - David REVOY https://2015.capitoledulibre.org/programme/presentation/5/
-- Concevoir la mécanique d'un robot sous FreeCAD – Alexandre LABURE https://2015.capitoledulibre.org/programme/presentation/91/
+====================
 
+9h55 - 10h00
+-----
+Bienvenue aux Bazars du Libre 2015 section Culture et multimédia libre
+
+11h30 - 12h30
+-----
+Concevoir la mécanique d'un robot sous FreeCAD – Alexandre LABURE
+
+https://2015.capitoledulibre.org/programme/presentation/91/
+
+14h00 - 14h30
+-----
+Pepper&Carrot, un webcomic libre en 2015. - - David REVOY
+https://2015.capitoledulibre.org/programme/presentation/5/
+
+14h30 - 15h00
+-----
+FreeCAD, une plateforme de design hackable - Yorik Van havre
+
+15h00 - 15h30
+-----
+Fablabs libres ? Où en est-on vraiment aujourd'hui ? - Matthieu Dupont de Dinechin
+
+15h30 - 16h00
+-----
+ZeMarmot — Film Libre créé avec des Logiciels Libres - Jehan https://2015.capitoledulibre.org/programme/presentation/25/
+
+16h00 - 16h30
+-----
+Nicolas Froment (musescore2)
+
+16h30 - 17h00
+-----
+Thimothé Krita
 
 
 Prochainement :)
