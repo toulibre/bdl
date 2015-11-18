@@ -12,7 +12,7 @@ Venez découvrir
 ==============
 Les conférences autours des thèmes **Culture libre et multimédia** ainsi que **Création graphique avec des outils libres**.
 Nous y parlerons des logiciels libre de modélisation 3D, FreeCAD et Blender, mais aussi de logiciels libre de création 2D, Inkscape, Krita.
-Enfin nous parlerons de cultre libre et multimédia avec Ze Marmot, un film libre, Musescore un logiciel d'édition de partition de musique.
+Enfin nous parlerons de cultre libre et multimédia avec Ze Marmot, un film libre fait avec du libre, Musescore un logiciel d'édition de partition de musique.
 
 Un espace convivial vous permettra de rencontrer les acteurs de ces logiciels libre, de poser vos questions, de voir certaine réalisations : BD, Imprimantes 3D et d'autres surprises.
 
@@ -85,7 +85,7 @@ Fablabs libres ? Où en est-on vraiment aujourd'hui ? (15h00 - 15h30)
 -----
 Par Matthieu Dupont de Dinechin
 
-`Description <>`_
+`Description <https://2015.capitoledulibre.org/programme/presentation/110/>`_
 
 
 ZeMarmot — Film Libre créé avec des Logiciels Libres (15h30 - 16h00)
