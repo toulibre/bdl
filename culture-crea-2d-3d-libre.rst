@@ -10,11 +10,11 @@ Le `Capitole du Libre 2015 <http://2015.capitoledulibre.org>`_ n'est plus, vive 
 
 Venez découvrir 
 ==============
-Les conférences autours des thèmes **Culture libre et multimédia** ainsi que **Création graphique avec des outils libres** se tiendront tout au long de la journée du Samedi 21 Novembre 2015 de 9h30 à 18h30 au Fablab Artilect de Toulouse.
+Les conférences autours des thèmes **Culture libre et multimédia** ainsi que **Création graphique avec des outils libres**.
 Nous y parlerons des logiciels libre de modélisation 3D, FreeCAD et Blender, mais aussi de logiciels libre de création 2D, Inkscape, Krita.
 Enfin nous parlerons de cultre libre et multimédia avec Ze Marmot, un film libre, Musescore un logiciel d'édition de partition de musique.
 
-Un espace convivial vous permettra de rencontrer les acteurs de ces logiciels libre et de discuter.
+Un espace convivial vous permettra de rencontrer les acteurs de ces logiciels libre, de poser vos questions, de voir certaine réalisations : BD, Imprimantes 3D et d'autres surprises.
 
 Vous pourrez rencontrer :
 
@@ -108,6 +108,6 @@ Par Thimothé Krita
 
 `Description <https://2015.capitoledulibre.org/programme/presentation/61/>`_
 
-Prochainement :)
+D'autre conférences sont en cours de programmation :)
 
 
