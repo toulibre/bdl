@@ -24,6 +24,9 @@ Les lieux
 * `FabLab/Artilect <http://osm.org/go/xVYACKlUk?way=65609574>`_ (Culture Libre/Crea Multimédia/3D) 
 * `Mix’art Myrys <http://mixart-myrys.org/le-lieu/>`_ (Le reste/ce que l’on peut)
 
+.. raw:: html
+  :file: lieux.html
+
 Les conférences 
 ----------------
 
