@@ -19,10 +19,10 @@ Le `Capitole du Libre 2015 <http://2015.capitoledulibre.org>`_ n'est plus, vive 
 Les lieux
 ----------
 
-* Grand builder Ekito (KDE)
-* Etincelle (DevOps)
-* FabLab/Artilect (Culture Libre/Crea Multimédia/3D) 
-* Mix’art Myrys (Le reste/ce que l’on peut)
+* `Grand builder Ekito <http://www.ekito.fr/>`_ (KDE)
+* `Etincelle <http://www.coworking-toulouse.com/le-lieu/>`_ (DevOps)
+* `FabLab/Artilect <http://osm.org/go/xVYACKlUk?way=65609574>`_ (Culture Libre/Crea Multimédia/3D) 
+* `Mix’art Myrys <http://mixart-myrys.org/le-lieu/>`_ (Le reste/ce que l’on peut)
 
 Les conférences 
 ----------------
