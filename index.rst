@@ -9,9 +9,9 @@
 21-22 novembre 2015
 ====================
 
-Ou comment organiser un évènement en quatre jours…
+Ou comment organiser un événement en quatre jours…
 
-Plus de details, dans les prochaines heures.
+Plus de détails, dans les prochaines heures.
 
 Le `Capitole du Libre 2015 <http://2015.capitoledulibre.org>`_ n'est plus, vive le Bazar du Libre !
 
@@ -49,6 +49,7 @@ Seront présents :
 - Lionel Maurel
 - Sébastien "Elzen" Dufromontel
 - Christophe "Piks3l"
+- Jérémie Zimmermann
 
 FabLab/Artilect
 +++++++++++++++
