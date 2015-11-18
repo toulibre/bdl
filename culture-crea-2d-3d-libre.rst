@@ -8,15 +8,15 @@
 
 Le `Capitole du Libre 2015 <http://2015.capitoledulibre.org>`_ n'est plus, vive le Bazar du Libre !
 
-Venez découvrir Culture libre et multimédia & Création graphique avec des outils libres
-====================
-Les conférences autours des thèmes Culture libre et multimédia ainsi que Création graphique avec des outils libres se tiendront tout au long de la journée du Samedi 21 Novembre 2015 de 9h30 à 18h30 au Fablab Artilect de Toulouse.
+Venez découvrir 
+==============
+Les conférences autours des thèmes **Culture libre et multimédia** ainsi que **Création graphique avec des outils libres** se tiendront tout au long de la journée du Samedi 21 Novembre 2015 de 9h30 à 18h30 au Fablab Artilect de Toulouse.
 Nous y parlerons des logiciels libre de modélisation 3D, FreeCAD et Blender, mais aussi de logiciels libre de création 2D, Inkscape, Krita.
 Enfin nous parlerons de cultre libre et multimédia avec Ze Marmot, un film libre, Musescore un logiciel d'édition de partition de musique.
 
 Un espace convivial vous permettra de rencontrer les acteurs de ces logiciels libre et de discuter.
 
-Seront présents :
+Vous pourrez rencontrer :
 
 - David Revoy
 - Timothée Giet
@@ -25,11 +25,19 @@ Seront présents :
 - Yorik Van Havre
 - Matthieu Dupont de Dinechin
 
+Qui vous parlerons des logiciels suivant :
+
+- Krita
+- Inkscape
+- FreeCAD
+- Blender
+- Musescore
+
 Et d’autres !
 
 Le Samedi 21 Novembre 2015 de 9h30 à 18h30
 ====================
-C'est portes ouvertes pour cette journée
+Sans interruption, venez discuter des logiciels libres entre développeurs et utilisateurs.
 
 Au `Fablab Artilect <http://www.artilect.fr/contact/>`_
 ==================
@@ -39,14 +47,16 @@ Au `Fablab Artilect <http://www.artilect.fr/contact/>`_
 - Possibilité de vous garer dans le FabLab : parking de 60 places
 - `Plan d'accès <http://osm.org/go/xVYACKEU0?m=>`_
 
-L'entré est libre et gratuite, la buvette du Fablab vous permettra de vous rafraichir.
+L'entrée est libre et gratuite, la buvette du Fablab vous permettra de vous rafraichir.
 
-Les conférences 
+Les conférences (horaires)
 ===============
-Attention les horaires et les salles indiqué dans les liens de description ne sont plus valides.
+*Attention les horaires et les salles indiqués dans les liens de description ne sont plus valides.*
+
 
 Introduction (9h55 - 10h00)
 -----
+
 Bienvenue aux Bazars du Libre 2015 section Culture et multimédia libre
 
 
