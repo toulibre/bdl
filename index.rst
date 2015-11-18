@@ -21,13 +21,13 @@ Les lieux
 
 * `Grand builder Ekito <http://www.ekito.fr/>`_ (KDE)
 * `Etincelle <http://www.coworking-toulouse.com/le-lieu/>`_ (DevOps)
-* `FabLab/Artilect <http://osm.org/go/xVYACKlUk?way=65609574>`_ (Culture Libre/Crea Multimédia/3D) 
-* `Mix’art Myrys <http://mixart-myrys.org/le-lieu/>`_ (Le reste/ce que l’on peut)
+* `FabLab/Artilect <http://osm.org/go/xVYACKlUk?way=65609574>`_ (Culture Libre/Crea Multimédia/3D)
+* `Mix’art Myrys <http://mixart-myrys.org/le-lieu/>`_ (Enjeux du libre, Internet libre)
 
 .. raw:: html
   :file: lieux.html
 
-Les conférences 
+Les conférences
 ----------------
 
 Prochainement :)
@@ -35,14 +35,25 @@ Prochainement :)
 Mix’art Myrys
 +++++++++++++
 
-Ouverture à partir de 14h le samedi. 
+Ouverture à partir de 14h le samedi.
 
-A noter qu’une participation libre mais nécessaire sera demandée. 
+A noter qu’une participation libre mais nécessaire sera demandée.
+
+Seront présents :
+
+- Benjamin Bayart
+- Stéphane Bortzmeyer
+- Oriane Piquer-Louis
+- Paul Kocialkowski
+- Julien Rabier
+- Lionel Maurel
+- Sébastien "Elzen" Dufromontel
+- Christophe "Piks3l"
 
 FabLab/Artilect
 +++++++++++++++
 
-De 9h30 à 18h30 pour parler 3D - FreeCAD - Blender. Conf et démo sur place. 
+De 9h30 à 18h30 pour parler 3D - FreeCAD - Blender. Conf et démo sur place.
 
 Seront présents :
 
