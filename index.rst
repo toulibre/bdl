@@ -49,6 +49,20 @@ Seront présents :
 - ZeMarmott
 - Yorik
 
+Ekito
++++++++++++++++
+
+De 9h30 à 18h30 pour l'akademy-fr (parler des nouveautés, manipuler et pratiquer avec la communauté KDE)
+
+Seront présents :
+
+- Franck Arrecot
+- Benjamin Port
+- Kévin Ottens
+- Laurent Montel
+- Sébastien Renard
+
+
 Et d’autres !
 
 Les goodies
