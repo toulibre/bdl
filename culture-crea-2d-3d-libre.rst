@@ -16,8 +16,6 @@ Enfin nous parlerons de cultre libre et multimédia avec Ze Marmot, un film libr
 
 Un espace convivial vous permettra de rencontrer les acteurs de ces logiciels libre et de discuter.
 
-De 9h30 à 18h30 pour parler 3D - FreeCAD - Blender. Conf et démo sur place. 
-
 Seront présents :
 
 - David Revoy
@@ -51,11 +49,13 @@ Introduction (9h55 - 10h00)
 -----
 Bienvenue aux Bazars du Libre 2015 section Culture et multimédia libre
 
+
 Concevoir la mécanique d'un robot sous FreeCAD (11h30 - 12h30)
 -----
 Par Alexandre LABURE
 
 `Description <https://2015.capitoledulibre.org/programme/presentation/91/>`_
+
 
 Pepper&Carrot, un webcomic libre en 2015 (14h00 - 14h30)
 -----
@@ -63,17 +63,20 @@ Par David REVOY
 
 `Description <https://2015.capitoledulibre.org/programme/presentation/5/>`_
 
-14h30 - 15h00
------
-FreeCAD, une plateforme de design hackable - Yorik Van havre
 
-`Description <
+FreeCAD, une plateforme de design hackable (14h30 - 15h00)
+-----
+Par Yorik Van havre
+
+`Description <https://2015.capitoledulibre.org/programme/presentation/2/>`_
+
 
 Fablabs libres ? Où en est-on vraiment aujourd'hui ? (15h00 - 15h30)
 -----
 Par Matthieu Dupont de Dinechin
 
-`Description <
+`Description <>`_
+
 
 ZeMarmot — Film Libre créé avec des Logiciels Libres (15h30 - 16h00)
 -----
@@ -81,14 +84,19 @@ Par Jehan
 
 `Description <https://2015.capitoledulibre.org/programme/presentation/25/>`_
 
-16h00 - 16h30
------
-Nicolas Froment (musescore2)
 
-16h30 - 17h00
+Partitions Musicales : Les nouveautés de MuseScore 2 (16h00 - 16h30)
 -----
-Thimothé Krita
+Par Nicolas Froment
 
+`Description <https://2015.capitoledulibre.org/programme/presentation/6/>`_
+
+
+Dessin d'animation avec Krita (16h30 - 17h00)
+-----
+Par Thimothé Krita
+
+`Description <https://2015.capitoledulibre.org/programme/presentation/61/>`_
 
 Prochainement :)
 
