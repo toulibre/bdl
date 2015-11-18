@@ -21,7 +21,7 @@ Les lieux
 
 * `Grand builder Ekito <http://www.ekito.fr/>`_ (KDE) − Le samedi 9h30 à 18h30.
 * `Etincelle <http://www.coworking-toulouse.com/le-lieu/>`_ (DevOps) − Le samedi à 14h à 18h.
-* `FabLab/Artilect <http://osm.org/go/xVYACKlUk?way=65609574>`_ (Culture Libre/Crea Multimédia/3D) − Le samedi 9h30 à 18h30.
+* `FabLab/Artilect <http://www.artilect.fr/contact/>`_ (Culture Libre/Crea Multimédia/3D) − Le samedi 9h30 à 18h30.
 * `Mix’art Myrys <http://mixart-myrys.org/le-lieu/>`_ (Enjeux du libre, Internet libre) − Le samedi 13h45 au dimanche 17h (avec une fermeture le dimanche matin).
 
 .. raw:: html
