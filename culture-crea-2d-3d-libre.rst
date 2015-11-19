@@ -50,102 +50,21 @@ Les conférences (horaires)
 
 *Attention les horaires et les salles indiqués dans les liens de description ne sont plus valides.*
 
-
-Ouverture des portes 9h30
--------------------------
-
-Bienvenue aux Bazars du Libre 2015 section Culture et multimédia libre
-
-
-Créer un poster avec Inkscape (10h00 - 10h30)
----------------------------------------------
-
-Par Elisa de Castro Guerra
-
-`Description <https://2015.capitoledulibre.org/programme/presentation/59/>`_
-
-
-Les nouveautés dans le monde de Scribus (10h30 - 11h00)
--------------------------------------------------------
-
-Par Cédric Gémy
-
-`Description <https://2015.capitoledulibre.org/programme/presentation/58/>`_
-
-
-Comment créer un livre et un jeu en 5 jours (11h00 - 11h30)
------------------------------------------------------------
-
-Par Elisa de Castro Guerra
-
-`Description <https://2015.capitoledulibre.org/programme/presentation/33/>`_
-
-
-Concevoir la mécanique d'un robot sous FreeCAD (11h30 - 12h30)
---------------------------------------------------------------
-
-Par Alexandre LABURE
-
-`Description <https://2015.capitoledulibre.org/programme/presentation/91/>`_
-
-
-Pepper&Carrot, un webcomic libre en 2015 (14h00 - 14h30)
---------------------------------------------------------
-
-Par David REVOY
-
-`Description <https://2015.capitoledulibre.org/programme/presentation/5/>`_
-
-
-FreeCAD, une plateforme de design hackable (14h30 - 15h00)
-----------------------------------------------------------
-
-Par Yorik Van havre
-
-`Description <https://2015.capitoledulibre.org/programme/presentation/2/>`_
-
-
-Fablabs libres ? Où en est-on vraiment aujourd'hui ? (15h00 - 15h30)
---------------------------------------------------------------------
-
-Par Matthieu Dupont de Dinechin
-
-`Description <https://2015.capitoledulibre.org/programme/presentation/110/>`_
-
-
-ZeMarmot — Film Libre créé avec des Logiciels Libres (15h30 - 16h00)
---------------------------------------------------------------------
-
-Par Jehan 
-
-`Description <https://2015.capitoledulibre.org/programme/presentation/25/>`_
-
-
-Partitions Musicales : Les nouveautés de MuseScore 2 (16h00 - 16h30)
---------------------------------------------------------------------
-
-Par Nicolas Froment
-
-`Description <https://2015.capitoledulibre.org/programme/presentation/6/>`_
-
-
-Blender dans un pipeline de production de jeux vidéo (16h30 - 17h00)
----------------------------------------------------------------------
-Par Mathias Fontmarty
-
-`Description <https://2015.capitoledulibre.org/programme/presentation/53/>`_
-
-
-Dessin d'animation avec Krita (17h00 - 17h30)
----------------------------------------------
-Par Thimothé Krita
-
-`Description <https://2015.capitoledulibre.org/programme/presentation/61/>`_
-
-
-"Colo Blender" et outils pour la production de films d'animation (17h30 - 18h00)
-----------------------------------------------------------------------------------
-Par Flavio Perez
-
-`Description <https://2015.capitoledulibre.org/programme/presentation/54/>`_
-
+=========== ================================================================================================================================== ================================
+Horaire     Titre                                                                                                                              Orateur(s)
+=========== ================================================================================================================================== ================================
+09h30       Ouverture des portes - Bienvenue aux Bazars du Libre 2015 section Culture et multimédia libre
+10h00-10h30 `Créer un poster avec Inkscape <https://2015.capitoledulibre.org/programme/presentation/59/>`_                                     Elisa de Castro Guerra
+10h30-11h00 `Les nouveautés dans le monde de Scribus <https://2015.capitoledulibre.org/programme/presentation/58/>`_                           Cédric Gémy
+11h00-11h30 `Comment créer un livre et un jeu en 5 jours <https://2015.capitoledulibre.org/programme/presentation/33/>`_                       Elisa de Castro Guerra
+11h30-12h30 `Concevoir la mécanique d'un robot sous FreeCAD <https://2015.capitoledulibre.org/programme/presentation/91/>`_                    Alexandre LABURE
+12h30-14h00 Pause
+14h00-14h30 `Pepper&Carrot, un webcomic libre en 2015 <https://2015.capitoledulibre.org/programme/presentation/5/>`_                           David REVOY
+14h30-15h00 `FreeCAD, une plateforme de design hackable <https://2015.capitoledulibre.org/programme/presentation/2/>`_                         Yorik Van havre
+15h00-15h30 `Fablabs libres ? Où en est-on vraiment aujourd'hui ? <https://2015.capitoledulibre.org/programme/presentation/110/>`_             Matthieu Dupont de Dinechin
+15h30-16h00 `ZeMarmot — Film Libre créé avec des Logiciels Libres <https://2015.capitoledulibre.org/programme/presentation/25/>`_              Jehan
+16h00-16h30 `Partitions Musicales : Les nouveautés de MuseScore 2 <https://2015.capitoledulibre.org/programme/presentation/6/>`_               Nicolas Froment
+16h30-17h00 `Blender dans un pipeline de production de jeux vidéo <https://2015.capitoledulibre.org/programme/presentation/53/>`_              Mathias Fontmarty
+17h00-17h30 `Dessin d'animation avec Krita <https://2015.capitoledulibre.org/programme/presentation/61/>`_                                     Timothée Giet
+17h30-18h00 `"Colo Blender" et outils pour la production de films d'animation <https://2015.capitoledulibre.org/programme/presentation/54/>`_  Flavio Perez
+=========== ================================================================================================================================== ================================
