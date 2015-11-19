@@ -52,10 +52,11 @@ Etincelle Corworking
 
 De 14h00 à 18h30 pour parler DevOps. Les conférences suivantes sont confirmées :
 
-- `Challenges d'un déploiement OpenStack et bonnes pratiques de consommation IaaS (Adrien Cunin) <https://2015.capitoledulibre.org/programme/presentation/38/>`_
-- `Gestion de containers avec Docker, Kubernetes et Atomic (Michael Scherer) <https://2015.capitoledulibre.org/programme/presentation/41/>`_
-- `Docker, au delà du simple container (Adrien Blind) <https://2015.capitoledulibre.org/programme/presentation/120/>`_
-- `L'infrastructure de Mozilla (Ludovic Hirlimann) <https://2015.capitoledulibre.org/programme/presentation/40/>`_
+- 14h00 - 15h00 `Challenges d'un déploiement OpenStack et bonnes pratiques de consommation IaaS (Adrien Cunin) <https://2015.capitoledulibre.org/programme/presentation/38/>`_
+- 15h00 - 16h00 `Gestion de containers avec Docker, Kubernetes et Atomic (Michael Scherer) <https://2015.capitoledulibre.org/programme/presentation/41/>`_
+- 16h00 - 16h30 Pause
+- 16h30 - 17h30 `Docker, au delà du simple container (Adrien Blind) <https://2015.capitoledulibre.org/programme/presentation/120/>`_
+- 17h30 - 18h30 `L'infrastructure de Mozilla (Ludovic Hirlimann) <https://2015.capitoledulibre.org/programme/presentation/40/>`_
 
 Nombre de places limitées, inscrivez vous sur le groupe `Meetup Toulouse DevOps <http://www.meetup.com/fr/Toulouse-DevOps/events/226700021/>`_.
 
