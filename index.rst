@@ -50,6 +50,7 @@ Seront présents :
 - Sébastien "Elzen" Dufromontel
 - Christophe "Piks3l"
 - Jérémie Zimmermann
+- "Genma"
 
 FabLab/Artilect
 +++++++++++++++
