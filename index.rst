@@ -124,7 +124,7 @@ De 14h00 à 18h00 pour parler DevOps. Les conférences suivantes sont confirmée
 - Gestion de containers avec Docker, Kubernetes et Atomic (Michael Scherer)
 - Docker, au delà du simple container (Adrien Blind)
 
-Nombre de places limitées, inscrivez vous sur le groupe `Meetup Toulouse DevOps <http://www.meetup.com/fr/Toulouse-DevOps/events/226700021/>`.
+Nombre de places limitées, inscrivez vous sur le groupe `Meetup Toulouse DevOps <http://www.meetup.com/fr/Toulouse-DevOps/events/226700021/>`_.
 
 Samedi 21 Novembre
 ******************
