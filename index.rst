@@ -44,13 +44,6 @@ Seront présents :
 - ZeMarmott
 - Yorik
 
-Ekito
-+++++++++++++++
-
-Si vous aimez le développement, si vous aimez aider à faire de beaux logiciels, si vous voulez contribuer au Logiciel Libre,
-venez rencontrer la communauté KDE française qui abordera les tests automatisés, le remaniement de code, l'optimisation,
-la traduction et la promotion de Logiciels Libres.
-
 Etincelle Corworking
 ++++++++++++++++++++++++
 
@@ -61,6 +54,13 @@ De 14h00 à 18h00 pour parler DevOps. Les conférences suivantes sont confirmée
 - Docker, au delà du simple container (Adrien Blind)
 
 Nombre de places limitées, inscrivez vous sur le groupe `Meetup Toulouse DevOps <http://www.meetup.com/fr/Toulouse-DevOps/events/226700021/>`_.
+
+Ekito
++++++++++++++++
+
+Si vous aimez le développement, si vous aimez aider à faire de beaux logiciels, si vous voulez contribuer au Logiciel Libre,
+venez rencontrer la communauté KDE française qui abordera les tests automatisés, le remaniement de code, l'optimisation,
+la traduction et la promotion de Logiciels Libres.
 
 Samedi 21 Novembre
 ******************
@@ -111,7 +111,9 @@ Salle 2
 * 14h - 15h : Stéphane Bortzmeyer : Expérimentation dans le DNS : le projet Yeti
 * 15h - 16h : Libérer son mobile avec Replicant : politique, technique – Paul Kocialkowski, Benjamin Bayart
 * 16h - 17h : Open Hardware - Thibault Cantegrel
+
 DoubleDragon, les ateliers
+
 * 14h - 16h : La Brique Camp - Taziden
 
 Vers 19h, tout le monde passe avec vigueur à l'apéro, qui sera probablement animé par le célèbre Jz.
