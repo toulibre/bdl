@@ -50,11 +50,12 @@ Le détail complet sur `cette page </culture-crea-2d-3d-libre.html>`_.
 Etincelle Corworking
 ++++++++++++++++++++++++
 
-De 14h00 à 18h00 pour parler DevOps. Les conférences suivantes sont confirmées :
+De 14h00 à 18h30 pour parler DevOps. Les conférences suivantes sont confirmées :
 
 - `Challenges d'un déploiement OpenStack et bonnes pratiques de consommation IaaS (Adrien Cunin) <https://2015.capitoledulibre.org/programme/presentation/38/>`_
 - `Gestion de containers avec Docker, Kubernetes et Atomic (Michael Scherer) <https://2015.capitoledulibre.org/programme/presentation/41/>`_
 - `Docker, au delà du simple container (Adrien Blind) <https://2015.capitoledulibre.org/programme/presentation/120/>`_
+- `L'infrastructure de Mozilla (Ludovic Hirlimann) <https://2015.capitoledulibre.org/programme/presentation/40/>`_
 
 Nombre de places limitées, inscrivez vous sur le groupe `Meetup Toulouse DevOps <http://www.meetup.com/fr/Toulouse-DevOps/events/226700021/>`_.
 
