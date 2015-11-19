@@ -74,6 +74,17 @@ Si vous aimez le développement, si vous aimez aider à faire de beaux logiciels
 venez rencontrer la communauté KDE française qui abordera les tests automatisés, le remaniement de code, l'optimisation,
 la traduction et la promotion de Logiciels Libres.
 
+Etincelle Corworking
+++++++++++++++++++++++++
+
+De 14h00 à 18h00 pour parler DevOps. Les conférences suivantes sont confirmées :
+
+- Challenges d'un déploiement OpenStack et bonnes pratiques de consommation IaaS (Adrien Cunin)
+- Gestion de containers avec Docker, Kubernetes et Atomic (Michael Scherer)
+- Docker, au delà du simple container (Adrien Blind)
+
+Nombre de places limitées, inscrivez vous sur le groupe `Meetup Toulouse DevOps <http://www.meetup.com/fr/Toulouse-DevOps/events/226700021/>`.
+
 Samedi 21 Novembre
 ******************
 
