@@ -59,28 +59,28 @@ Samedi 21 Novembre
 
 Ouverture à 9h30, démarrage des conférences à 11h.
 
-=========== =============================================== ================================
-Horaire     Titre                                           Orateur(s)
-=========== =============================================== ================================
-11h00-12h00 Doublures de tests: le pouvoir du doppelgänger  Franck Arrecot, Kévin Ottens
+=========== ================================================================================================================ ================================
+Horaire     Titre                                                                                                            Orateur(s)
+=========== ================================================================================================================ ================================
+11h00-12h00 `Doublures de tests: le pouvoir du doppelgänger <https://2015.capitoledulibre.org/programme/presentation/99/>`_  Franck Arrecot, Kévin Ottens
 12h00-14h00 Pause Déjeuner
-14h00-15h00 Optimisations du code et bonnes pratiques       Laurent Montel
-15h00-16h00 Traduire les Logiciels Libres                   Sébastien Renard
+14h00-15h00 `Optimisations du code et bonnes pratiques <https://2015.capitoledulibre.org/programme/presentation/101/>`_      Laurent Montel
+15h00-16h00 `Traduire les Logiciels Libres <https://2015.capitoledulibre.org/programme/presentation/90/>`_                   Sébastien Renard
 16h00-16h30 Pause
-16h30-17h30 Refactoring, ou comment nettoyer du code ancien Sébastien Renard, Franck Arrecot
-17h30-18h00 La promotion des projets KDE en France          Benjamin Port
-=========== =============================================== ================================
+16h30-17h30 `Refactoring, ou comment nettoyer du code ancien <https://2015.capitoledulibre.org/programme/presentation/88/>`_ Sébastien Renard, Franck Arrecot
+17h30-18h00 `La promotion des projets KDE en France <https://2015.capitoledulibre.org/programme/presentation/113/>`_         Benjamin Port
+=========== ================================================================================================================ ================================
 
 Dimanche 22 Novembre
 ********************
 
 Ouverture à 9h30, démarrage de l'atelier à 10h.
 
-=========== ============================= ================================
-Horaire     Titre                         Orateur(s)
-=========== ============================= ================================
-10h00-13h00 Refactoring: Mise en pratique Sébastien Renard, Franck Arrecot
-=========== ============================= ================================
+=========== ============================================================================================== ================================
+Horaire     Titre                                                                                          Orateur(s)
+=========== ============================================================================================== ================================
+10h00-13h00 `Refactoring: Mise en pratique <https://2015.capitoledulibre.org/programme/presentation/89/>`_ Sébastien Renard, Franck Arrecot
+=========== ============================================================================================== ================================
 
 Mix’art Myrys
 +++++++++++++
