@@ -104,17 +104,17 @@ Salle 1
 
 * 14h - 15h : Dégooglisons Internet – Genma et Pouhiou
 * 15h - 16h30 : Rage against the machine - De quoi devons-nous aujourd'hui nous libérer? – Jérémie Zimmermann
-* 16h30 - 18h00 : Benjamin Bayart : ce que font les exégètes amateurs dans leur garage
+* 16h30 - 18h00 : Ce que font les exégètes amateurs dans leur garage −  Benjamin Bayart
 
 Salle 2
 
-* 14h - 15h : Stéphane Bortzmeyer : Expérimentation dans le DNS : le projet Yeti
+* 14h - 15h : Expérimentation dans le DNS : le projet Yeti − Stéphane Bortzmeyer
 * 15h - 16h : Libérer son mobile avec Replicant : politique, technique – Paul Kocialkowski, Benjamin Bayart
-* 16h - 17h : Open Hardware - Thibault Cantegrel
+* 16h - 17h : Open Hardware − Thibault Cantegrel
 
 DoubleDragon, les ateliers
 
-* 14h - 16h : La Brique Camp - Taziden
+* 14h - 16h : La Brique Camp − Taziden
 
 Vers 19h, tout le monde passe avec vigueur à l'apéro, qui sera probablement animé par le célèbre Jz.
 
@@ -125,7 +125,7 @@ Salle 1
 
 * 14h - 15h : Du Libre aux Communs de la connaissance : pour un dépassement de l'idéologie propriétaire – Lionel Maurel
 * 15h - 16h : Relire Foucault à l'ère Snowden – Oriane PIQUER-LOUIS
-* 16h - 17h : créneau du bazar - WTF ?
+* 16h - 17h : créneau du bazar
 * 17h : ranger son bazar, le merci à tous
 
 Salle 2
@@ -141,10 +141,15 @@ DD ateliers
 
 Bar de la Bulle
 
-* 11 h - 13 h : « politiser le numérique ? » taziden et piksel (en cours)
+* 11 h - 13 h : « politiser le numérique ? » − taziden et piksel (en cours)
 
 
 Les goodies
 ------------
 
 Ils seront en vente à MixArt Myrys
+
+Install Party
+-------------
+
+Aucune install party n’est prévu pour ce week-end.
