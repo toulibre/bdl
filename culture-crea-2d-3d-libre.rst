@@ -11,8 +11,7 @@ Le `Capitole du Libre 2015 <http://2015.capitoledulibre.org>`_ n'est plus, vive 
 Venez découvrir 
 ==============
 Les conférences autours des thèmes **Culture libre et multimédia** ainsi que **Création graphique avec des outils libres**.
-Nous y parlerons des logiciels libre de modélisation 3D, FreeCAD et Blender, mais aussi de logiciels libre de création 2D, Inkscape, Krita.
-Enfin nous parlerons de cultre libre et multimédia avec Ze Marmot, un film libre fait avec du libre, Musescore un logiciel d'édition de partition de musique.
+Nous y parlerons des logiciels libres de modélisation 3D, FreeCAD et Blender, mais aussi de logiciels libres de création 2D, Inkscape et Krita. Enfin nous parlerons de culture libre et multimédia avec Ze Marmot, un film libre fait avec du libre, Pepper & Carrot, un webcomic libre au succès international et Musescore un logiciel d'édition de partition de musique.
 
 Un espace convivial vous permettra de rencontrer les acteurs de ces logiciels libre, de poser vos questions, de voir certaine réalisations : BD, Imprimantes 3D et d'autres surprises.
 
@@ -54,10 +53,31 @@ Les conférences (horaires)
 *Attention les horaires et les salles indiqués dans les liens de description ne sont plus valides.*
 
 
-Introduction (9h55 - 10h00)
+Ouverture des portes 9h30
 -----
 
 Bienvenue aux Bazars du Libre 2015 section Culture et multimédia libre
+
+
+Créer un poster avec Inkscape (10h00 - 10h30)
+-----
+Par Elisa de Castro Guerra
+
+`Description <https://2015.capitoledulibre.org/programme/presentation/59/>`_
+
+
+Les nouveautés dans le monde de Scribus (10h30 - 11h00)
+-----
+Par Cédric Gémy
+
+`Description <https://2015.capitoledulibre.org/programme/presentation/58/>`_
+
+
+Comment créer un livre et un jeu en 5 jours (11h00 - 11h30)
+-----
+Par Elisa de Castro Guerra
+
+`Description <https://2015.capitoledulibre.org/programme/presentation/33/>`_
 
 
 Concevoir la mécanique d'un robot sous FreeCAD (11h30 - 12h30)
@@ -102,12 +122,25 @@ Par Nicolas Froment
 `Description <https://2015.capitoledulibre.org/programme/presentation/6/>`_
 
 
-Dessin d'animation avec Krita (16h30 - 17h00)
+Blender dans un pipeline de production de jeux vidéo (16h30 - 17h00)
+-----
+Par Mathias Fontmarty
+
+`Description <https://2015.capitoledulibre.org/programme/presentation/53/>`_
+
+
+Dessin d'animation avec Krita (17h00 - 17h30)
 -----
 Par Thimothé Krita
 
 `Description <https://2015.capitoledulibre.org/programme/presentation/61/>`_
 
-D'autre conférences sont en cours de programmation :)
+
+"Colo Blender" et outils pour la production de films d'animation (17h30 - 18h00)
+-----
+Par Flavio Perez
+
+`Description <https://2015.capitoledulibre.org/programme/presentation/54/>`_
+
 
 
