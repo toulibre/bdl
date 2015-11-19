@@ -10,25 +10,6 @@ Nous y parlerons des logiciels libres de modélisation 3D, FreeCAD et Blender, m
 
 Un espace convivial vous permettra de rencontrer les acteurs de ces logiciels libre, de poser vos questions, de voir certaine réalisations : BD, Imprimantes 3D et d'autres surprises.
 
-Vous pourrez rencontrer :
-
-- David Revoy
-- Timothée Giet
-- Nicolas Froment
-- ZeMarmott
-- Yorik Van Havre
-- Matthieu Dupont de Dinechin
-
-Qui vous parlerons des logiciels suivant :
-
-- Krita
-- Inkscape
-- FreeCAD
-- Blender
-- Musescore
-
-Et d’autres !
-
 Le Samedi 21 Novembre 2015 de 9h30 à 18h30
 ===========================================
 
