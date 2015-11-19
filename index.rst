@@ -30,70 +30,6 @@ Les lieux
 Les conférences
 ----------------
 
-Mix’art Myrys
-+++++++++++++
-
-Ouverture à partir de 14h le samedi.
-
-A noter qu’une participation libre mais nécessaire sera demandée.
-
-Samedi
-''''''''
-
-Salle 1
-
-* 14h - 15h : Dégooglisons Internet – Genma et Pouhiou
-* 15h - 16h30 : Rage against the machine - De quoi devons-nous aujourd'hui nous libérer? – Jérémie Zimmermann
-* 16h30 - 18h00 : Benjamin Bayart : ce que font les exégètes amateurs dans leur garage
-
-Salle 2
-
-* 14h - 15h : Stéphane Bortzmeyer : Expérimentation dans le DNS : le projet Yeti
-* 15h - 16h : Libérer son mobile avec Replicant : politique, technique – Paul Kocialkowski, Benjamin Bayart
-* 16h - 17h : Open Hardware - Thibault Cantegrel
-DoubleDragon, les ateliers
-* 14h - 16h : La Brique Camp - Taziden
-
-Vers 19h, tout le monde passe avec vigueur à l'apéro, qui sera probablement animé par le célèbre Jz.
-
-Dimanche
-
-Salle 1
-
-* 14h - 15h : Du Libre aux Communs de la connaissance : pour un dépassement de l'idéologie propriétaire – Lionel Maurel
-* 15h - 16h : Relire Foucault à l'ère Snowden – Oriane PIQUER-LOUIS
-* 16h - 17h : créneau du bazar - WTF ?
-* 17h : ranger son bazar, le merci à tous
-
-Salle 2
-
-* 14h - 15h : Elzen : auto-hébergement
-* 15h - 16h : L'authentification centralisé facile avec FreeIPA et Ipsilon – Michael Scherer
-* 16h - 17h : créneau du bazar
-
-DD ateliers
-
-* Matin : créneau libre du bazar, dwtfyw.
-* 14 h - 16 h : Initiation à Tor et Tails – Syl
-
-Bar de la Bulle
-
-* 11 h - 13 h : « politiser le numérique ? » taziden et piksel (en cours)
-
-
-
-Seront présents :
-
-- Benjamin Bayart
-- Stéphane Bortzmeyer
-- Oriane Piquer-Louis
-- Paul Kocialkowski
-- Julien Rabier
-- Lionel Maurel
-- Sébastien "Elzen" Dufromontel
-- Christophe "Piks3l"
-- Jérémie Zimmermann
-- "Genma"
 
 FabLab/Artilect
 +++++++++++++++
@@ -153,6 +89,58 @@ Horaire     Titre                         Orateur(s)
 =========== ============================= ================================
 10h00-13h00 Refactoring: Mise en pratique Sébastien Renard, Franck Arrecot
 =========== ============================= ================================
+
+Mix’art Myrys
++++++++++++++
+
+Ouverture à partir de 14h le samedi.
+
+A noter qu’une participation libre mais nécessaire sera demandée.
+
+Samedi 21 Novembre
+******************
+
+Salle 1
+
+* 14h - 15h : Dégooglisons Internet – Genma et Pouhiou
+* 15h - 16h30 : Rage against the machine - De quoi devons-nous aujourd'hui nous libérer? – Jérémie Zimmermann
+* 16h30 - 18h00 : Benjamin Bayart : ce que font les exégètes amateurs dans leur garage
+
+Salle 2
+
+* 14h - 15h : Stéphane Bortzmeyer : Expérimentation dans le DNS : le projet Yeti
+* 15h - 16h : Libérer son mobile avec Replicant : politique, technique – Paul Kocialkowski, Benjamin Bayart
+* 16h - 17h : Open Hardware - Thibault Cantegrel
+DoubleDragon, les ateliers
+* 14h - 16h : La Brique Camp - Taziden
+
+Vers 19h, tout le monde passe avec vigueur à l'apéro, qui sera probablement animé par le célèbre Jz.
+
+Dimanche 22 Novembre
+********************
+
+Salle 1
+
+* 14h - 15h : Du Libre aux Communs de la connaissance : pour un dépassement de l'idéologie propriétaire – Lionel Maurel
+* 15h - 16h : Relire Foucault à l'ère Snowden – Oriane PIQUER-LOUIS
+* 16h - 17h : créneau du bazar - WTF ?
+* 17h : ranger son bazar, le merci à tous
+
+Salle 2
+
+* 14h - 15h : Elzen : auto-hébergement
+* 15h - 16h : L'authentification centralisé facile avec FreeIPA et Ipsilon – Michael Scherer
+* 16h - 17h : créneau du bazar
+
+DD ateliers
+
+* Matin : créneau libre du bazar, dwtfyw.
+* 14 h - 16 h : Initiation à Tor et Tails – Syl
+
+Bar de la Bulle
+
+* 11 h - 13 h : « politiser le numérique ? » taziden et piksel (en cours)
+
 
 Les goodies
 ------------
