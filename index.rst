@@ -159,8 +159,8 @@ Horaire     Titre                                                               
 =========== ============================================================================================== ==================================
 14h00-15h00 Auto-hébergement                                                                               Elzen
 15h00-16h00 L'authentification centralisé facile avec FreeIPA et Ipsilon                                   Michael Scherer
-16h00-16h30 la diva de la ligne de commande
-16h30-17h00 créneau du bazar                                                                               Alex Marandon
+16h00-16h30 la diva de la ligne de commande                                                                Alex Marandon
+16h30-17h00 créneau du bazar                                                                               
 =========== ============================================================================================== ==================================
 
 Double Dragon, ateliers
