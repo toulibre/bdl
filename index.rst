@@ -104,18 +104,29 @@ Samedi 21 Novembre
 ******************
 
 Salle 1
+~~~~~~~
 
-* 14h - 15h : Dégooglisons Internet – Genma et Pouhiou
-* 15h - 16h30 : Rage against the machine - De quoi devons-nous aujourd'hui nous libérer? – Jérémie Zimmermann
-* 16h30 - 18h00 : Ce que font les exégètes amateurs dans leur garage −  Benjamin Bayart
+=========== ============================================================================================== ================================
+Horaire     Titre                                                                                          Orateur(s)
+=========== ============================================================================================== ================================
+14h00-15h00 Dégooglisons Internet                                                                          Genma et Pouhiou
+15h00-16h30 Rage against the machine - De quoi devons-nous aujourd'hui nous libérer ?                      Jérémie Zimmermann
+16h30-18h00 Ce que font les exégètes amateurs dans leur garage                                             Benjamin Bayart
+=========== ============================================================================================== ================================
 
 Salle 2
+~~~~~~~
 
-* 14h - 15h : Expérimentation dans le DNS : le projet Yeti − Stéphane Bortzmeyer
-* 15h - 16h : Libérer son mobile avec Replicant : politique, technique – Paul Kocialkowski, Benjamin Bayart
-* 16h - 17h : Open Hardware − Thibault Cantegrel
+=========== ============================================================================================== ==================================
+Horaire     Titre                                                                                          Orateur(s)
+=========== ============================================================================================== ==================================
+14h00-15h00 Expérimentation dans le DNS : le projet Yeti                                                   Stéphane Bortzmeyer
+15h00-16h00 Libérer son mobile avec Replicant : politique, technique                                       Paul Kocialkowski, Benjamin Bayart
+16h00-17h00 Open Hardware                                                                                  Thibault Cantegrel
+=========== ============================================================================================== ==================================
 
 DoubleDragon, les ateliers
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * 14h - 16h : La Brique Camp − Taziden
 
@@ -125,26 +136,46 @@ Dimanche 22 Novembre
 ********************
 
 Salle 1
+~~~~~~~
 
-* 14h - 15h : Du Libre aux Communs de la connaissance : pour un dépassement de l'idéologie propriétaire – Lionel Maurel
-* 15h - 16h : Relire Foucault à l'ère Snowden – Oriane PIQUER-LOUIS
-* 16h - 17h : créneau du bazar
-* 17h : ranger son bazar, le merci à tous
+=========== ============================================================================================== ==================================
+Horaire     Titre                                                                                          Orateur(s)
+=========== ============================================================================================== ==================================
+14h00-15h00 Du Libre aux Communs de la connaissance : pour un dépassement de l'idéologie propriétaire      Lionel Maurel
+15h00-16h00 Relire Foucault à l'ère Snowden                                                                Oriane PIQUER-LOUIS
+16h00-17h00 créneau du bazar
+17h00       ranger son bazar, le merci à tous                                                              Toulibre
+=========== ============================================================================================== ==================================
 
 Salle 2
+~~~~~~~
 
-* 14h - 15h : Elzen : auto-hébergement
-* 15h - 16h : L'authentification centralisé facile avec FreeIPA et Ipsilon – Michael Scherer
-* 16h - 17h : créneau du bazar
+=========== ============================================================================================== ==================================
+Horaire     Titre                                                                                          Orateur(s)
+=========== ============================================================================================== ==================================
+14h00-15h00 Auto-hébergement                                                                               Elzen
+15h00-16h00 L'authentification centralisé facile avec FreeIPA et Ipsilon                                   Michael Scherer
+16h00-17h00 créneau du bazar
+=========== ============================================================================================== ==================================
 
-DD ateliers
+Double Dragon, ateliers
+~~~~~~~~~~~~~~~~~~~~~~~
 
-* Matin : créneau libre du bazar, dwtfyw.
-* 14 h - 16 h : Initiation à Tor et Tails – Syl
+=========== ============================================================================================== ==================================
+Horaire     Titre                                                                                          Orateur(s)
+=========== ============================================================================================== ==================================
+Matin       créneau libre du bazar, dwtfyw.
+14h00-16h00 Initiation à Tor et Tails                                                                      Syl
+=========== ============================================================================================== ==================================
 
 Bar de la Bulle
+~~~~~~~~~~~~~~~
 
-* 11 h - 13 h : « politiser le numérique ? » − taziden et piksel (en cours)
+=========== ============================================================================================== ==================================
+Horaire     Titre                                                                                          Orateur(s)
+=========== ============================================================================================== ==================================
+11 h - 13 h « politiser le numérique ? »                                                                   taziden et piks3l
+=========== ============================================================================================== ==================================
 
 
 Les goodies
