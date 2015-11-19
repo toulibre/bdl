@@ -15,8 +15,8 @@ Plus de détails, dans les prochaines heures.
 
 Le `Capitole du Libre 2015 <http://2015.capitoledulibre.org>`_ n'est plus, vive le Bazar du Libre !
 
-En résumé, les lieux
---------------------
+En résumé, les lieux, les rencontres
+---------------------------------------
 
 `**Surveillance numérique, nos libertés sont-elles menacées ?** <http://www.bibliotheque.toulouse.fr/viewPageEvent.html?page=surveillance_num>`_
   **Vendredi 20/11 à 18h − Médiathèque José Cabanis**
