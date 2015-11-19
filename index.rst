@@ -15,14 +15,25 @@ Plus de détails, dans les prochaines heures.
 
 Le `Capitole du Libre 2015 <http://2015.capitoledulibre.org>`_ n'est plus, vive le Bazar du Libre !
 
-
-Les lieux
+En résumé
 ----------
 
-* `Grand builder Ekito <http://www.ekito.fr/>`_ (Développement, Contribution) − Le samedi de 9h30 à 18h30 et le dimanche matin à partir de 9h30.
-* `Etincelle <http://www.coworking-toulouse.com/le-lieu/>`_ (DevOps) − Le samedi à 14h à 18h.
-* `FabLab/Artilect <http://www.artilect.fr/contact/>`_ (Culture Libre/Crea Multimédia/3D) − Le samedi 9h30 à 18h30.
-* `Mix’art Myrys <http://mixart-myrys.org/le-lieu/>`_ (Enjeux du libre, Internet libre) − Le samedi 13h45 au dimanche 17h (avec une fermeture le dimanche matin).
+`**Surveillance numérique, nos libertés sont-elles menacées ?** <http://www.bibliotheque.toulouse.fr/viewPageEvent.html?page=surveillance_num>`_
+  **Vendredi 20/11 à 18h − Médiathèque José Cabanis**
+  avec *Stéphane Bortzmeyer* et *Stanley Claisse*
+
+Logiciel libre : développement, contribution
+  **Le samedi de 9h30 à 18h30 et le dimanche matin à partir de 9h30** − `Grand builder Ekito <http://www.ekito.fr/>`_
+
+Rencontre DevOps
+  **Le samedi à 14h à 18h** − `Etincelle <http://www.coworking-toulouse.com/le-lieu/>`_
+
+`Culture Libre, Creation, 2D, 3D <http://bazardulibre.org/culture-crea-2d-3d-libre.html>`_
+   Le samedi 9h30 à 18h30 − `FabLab/Artilect <http://www.artilect.fr/contact/>`_
+
+Enjeux du libre et société
+  Le samedi à partir de 13h30 et dimanche à partir de 11h − `Mix’art Myrys <http://mixart-myrys.org/le-lieu/>`_
+
 
 .. raw:: html
   :file: lieux.html
