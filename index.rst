@@ -34,15 +34,7 @@ Les conférences
 FabLab/Artilect
 +++++++++++++++
 
-De 9h30 à 18h30 pour parler 3D - FreeCAD - Blender. Conf et démo sur place.
-
-Seront présents :
-
-- David Revoy
-- Timothée Giet
-- Nicolas Froment
-- ZeMarmott
-- Yorik
+Le détail complet sur `cette page </culture-crea-2d-3d-libre.html>`_.
 
 Etincelle Corworking
 ++++++++++++++++++++++++
