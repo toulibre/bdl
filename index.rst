@@ -15,8 +15,8 @@ Plus de détails, dans les prochaines heures.
 
 Le `Capitole du Libre 2015 <http://2015.capitoledulibre.org>`_ n'est plus, vive le Bazar du Libre !
 
-En résumé
-----------
+En résumé, les lieux
+--------------------
 
 `**Surveillance numérique, nos libertés sont-elles menacées ?** <http://www.bibliotheque.toulouse.fr/viewPageEvent.html?page=surveillance_num>`_
   **Vendredi 20/11 à 18h − Médiathèque José Cabanis**
@@ -160,6 +160,6 @@ Aucune install party n’est prévu pour ce week-end.
 Remerciement
 ------------
 
-* A `Elisa <http://yemanjalisa.fr/>`_ pour le logo et le design ; 
+* A `Elisa <http://yemanjalisa.fr/>`_ pour le logo et le design ;
 * A Ekito, Artilect/La Serre, Etincelle Coworking, Mix'Art Myrys, La Cantinne, Tau, Epitech et d’autres pour leur propositions d’accueil ;
 * A tous les bénévoles qui nous aident depuis lundi pour organiser ce Bazar du Libre.
