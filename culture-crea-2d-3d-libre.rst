@@ -1,6 +1,6 @@
 .. image:: bazar-du-libre.png
 
-Retour au `Bazar du Libre </>`_.
+Le reste du `Bazar du Libre </>`_.
 
 Venez découvrir 
 ===============
