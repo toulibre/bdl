@@ -28,6 +28,9 @@ Logiciel libre : développement, contribution
 Rencontre DevOps
   **Le samedi à 14h à 18h** − `Etincelle <http://www.coworking-toulouse.com/le-lieu/>`_ (2 rue d’Austerlitz, Toulouse, Métro Jean Jaurès)
 
+Coding Goûter, organisé par la Companie du Code
+  **Le samedi de 14h à 17h** − `la Cantine <http://lacantine-toulouse.org/7278/coding-gouter-le-code-pour-les-enfants-capitole-du-libre>`_
+
 `Culture Libre, Creation, 2D, 3D <http://bazardulibre.org/culture-crea-2d-3d-libre.html>`_
    Le samedi 9h30 à 18h30 − `FabLab/Artilect <http://www.artilect.fr/contact/>`_ (27bis Allées Maurice Sarraut, Toulouse, Métro Arènes)
 

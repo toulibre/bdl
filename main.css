@@ -48,6 +48,7 @@ table > tbody> tr > td {
 dt {
   font-weight: bold;
   font-size: 1.25em;
+  font-style: italic;
   margin-top: 1em;
   margin-bottom: 0.5em;
 }
