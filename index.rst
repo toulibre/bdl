@@ -20,19 +20,19 @@ En résumé, les lieux, les rencontres
 
 `Surveillance numérique, nos libertés sont-elles menacées ? <http://www.bibliotheque.toulouse.fr/viewPageEvent.html?page=surveillance_num>`_
   **Vendredi 20/11 à 18h − Médiathèque José Cabanis**
-  avec *Stéphane Bortzmeyer* et *Stanley Claisse*
+  avec *Stéphane Bortzmeyer* et *Stanley Claisse* (1, allée Jacques Chaban-Delmas, Matabiau)
 
 Logiciel libre : développement, contribution
-  **Le samedi de 9h30 à 18h30 et le dimanche matin à partir de 9h30** − `Grand builder Ekito <http://www.ekito.fr/>`_
+  **Le samedi de 9h30 à 18h30 et le dimanche matin à partir de 9h30** − `Grand builder Ekito <http://www.ekito.fr/>`_ (15 rue Gabriel Péri, Toulouse, Jean Jaurès)
 
 Rencontre DevOps
-  **Le samedi à 14h à 18h** − `Etincelle <http://www.coworking-toulouse.com/le-lieu/>`_
+  **Le samedi à 14h à 18h** − `Etincelle <http://www.coworking-toulouse.com/le-lieu/>`_ (2 rue d’Austerlitz, Toulouse, Jean Jaurès)
 
 `Culture Libre, Creation, 2D, 3D <http://bazardulibre.org/culture-crea-2d-3d-libre.html>`_
-   Le samedi 9h30 à 18h30 − `FabLab/Artilect <http://www.artilect.fr/contact/>`_
+   Le samedi 9h30 à 18h30 − `FabLab/Artilect <http://www.artilect.fr/contact/>`_ (27bis Allées Maurice Sarraut, Toulouse, Arènes)
 
 Enjeux du libre et société
-  Le samedi à partir de 13h30 et dimanche à partir de 11h − `Mix’art Myrys <http://mixart-myrys.org/le-lieu/>`_
+  Le samedi à partir de 13h30 et dimanche à partir de 11h − `Mix’art Myrys <http://mixart-myrys.org/le-lieu/>`_ 12 rue Ferdinand Lassalle, Toulouse, Boulevard de Suisse)
 
 
 .. raw:: html
