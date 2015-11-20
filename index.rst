@@ -152,7 +152,7 @@ Horaire     Titre                                                               
 =========== ==========================================================================================================================================================  ===================
 14h00-15h00 `Du Libre aux Communs de la connaissance : pour un dépassement de l'idéologie propriétaire <https://2015.capitoledulibre.org/programme/presentation/10/>`_  Lionel Maurel
 15h00-16h00 `Relire Foucault à l'ère Snowden <https://2015.capitoledulibre.org/programme/presentation/21/>`_                                                            Oriane PIQUER-LOUIS
-16h00-17h00 créneau du bazar
+16h00-17h00 `Licences libres + le droit de la rétroingénierie en France et en Europe <https://2015.capitoledulibre.org/programme/presentation/87/>`_                    Hugo Roy
 17h00       ranger son bazar, le merci à tous                                                                                                                           Toulibre
 =========== ==========================================================================================================================================================  ===================
 
