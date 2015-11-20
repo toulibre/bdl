@@ -1,212 +1,347 @@
-.. Utilisation : rst2html --stylesheet=main.css --title="Bazar du Libre" index.rst > index.html
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.12: http://docutils.sourceforge.net/" />
+<title></title>
+<style type="text/css">
 
-.. Bazar du Libre
+/*
+:Author: David Goodger (goodger@python.org)
+:Id: $Id: html4css1.css 7614 2013-02-21 15:55:51Z milde $
+:Copyright: This stylesheet has been placed in the public domain.
 
-.. image:: bazar-du-libre.png
+Default cascading style sheet for the HTML output of Docutils.
 
-.. Source http://yemanjalisa.fr/bazar-du-libre/index.html
+See http://docutils.sf.net/docs/howto/html-stylesheets.html for how to
+customize this style sheet.
+*/
 
-21-22 novembre 2015
-====================
+/* used to remove borders from tables and images */
+.borderless, table.borderless td, table.borderless th {
+  border: 0 }
 
-Ou comment organiser un événement en quatre jours…
+table.borderless td, table.borderless th {
+  /* Override padding for "table.docutils td" with "! important".
+     The right padding separates the table cells. */
+  padding: 0 0.5em 0 0 ! important }
 
-Plus de détails, dans les prochaines heures.
+.first {
+  /* Override more specific margin styles with "! important". */
+  margin-top: 0 ! important }
 
-Le `Capitole du Libre 2015 <http://2015.capitoledulibre.org>`_ n'est plus, vive le Bazar du Libre !
+.last, .with-subtitle {
+  margin-bottom: 0 ! important }
 
-En résumé, les lieux, les rencontres
----------------------------------------
+.hidden {
+  display: none }
 
-`Surveillance numérique, nos libertés sont-elles menacées ? <http://www.bibliotheque.toulouse.fr/viewPageEvent.html?page=surveillance_num>`_
-  **Vendredi 20/11 à 18h − Médiathèque José Cabanis**
-  avec *Stéphane Bortzmeyer* et *Stanley Claisse* (1, allée Jacques Chaban-Delmas, Métro Matabiau)
+a.toc-backref {
+  text-decoration: none ;
+  color: black }
 
-Logiciel libre : développement, contribution
-  **Le samedi de 9h30 à 18h30 et le dimanche matin à partir de 9h30** − `Grand builder Ekito <http://www.ekito.fr/>`_ (15 rue Gabriel Péri, Toulouse, Métro Jean Jaurès)
+blockquote.epigraph {
+  margin: 2em 5em ; }
 
-Rencontre DevOps
-  **Le samedi à 14h à 18h** − `Etincelle <http://www.coworking-toulouse.com/le-lieu/>`_ (2 rue d’Austerlitz, Toulouse, Métro Jean Jaurès)
+dl.docutils dd {
+  margin-bottom: 0.5em }
 
-Coding Goûter, organisé par la Companie du Code
-  **Le samedi de 14h à 17h** − `la Cantine <http://lacantine-toulouse.org/7278/coding-gouter-le-code-pour-les-enfants-capitole-du-libre>`_
+object[type="image/svg+xml"], object[type="application/x-shockwave-flash"] {
+  overflow: hidden;
+}
 
-`Culture Libre, Creation, 2D, 3D <http://bazardulibre.org/culture-crea-2d-3d-libre.html>`_
-   Le samedi 9h30 à 18h30 − `FabLab/Artilect <http://www.artilect.fr/contact/>`_ (27bis Allées Maurice Sarraut, Toulouse, Métro Arènes)
+/* Uncomment (and remove this text!) to get bold-faced definition list terms
+dl.docutils dt {
+  font-weight: bold }
+*/
 
-Enjeux du libre et société
-  Le samedi à partir de 13h30 et dimanche à partir de 11h − `Mix’art Myrys <http://mixart-myrys.org/le-lieu/>`_ 12 rue Ferdinand Lassalle, Toulouse, Boulevard de Suisse)
+div.abstract {
+  margin: 2em 5em }
+
+div.abstract p.topic-title {
+  font-weight: bold ;
+  text-align: center }
+
+div.admonition, div.attention, div.caution, div.danger, div.error,
+div.hint, div.important, div.note, div.tip, div.warning {
+  margin: 2em ;
+  border: medium outset ;
+  padding: 1em }
+
+div.admonition p.admonition-title, div.hint p.admonition-title,
+div.important p.admonition-title, div.note p.admonition-title,
+div.tip p.admonition-title {
+  font-weight: bold ;
+  font-family: sans-serif }
+
+div.attention p.admonition-title, div.caution p.admonition-title,
+div.danger p.admonition-title, div.error p.admonition-title,
+div.warning p.admonition-title, .code .error {
+  color: red ;
+  font-weight: bold ;
+  font-family: sans-serif }
+
+/* Uncomment (and remove this text!) to get reduced vertical space in
+   compound paragraphs.
+div.compound .compound-first, div.compound .compound-middle {
+  margin-bottom: 0.5em }
+
+div.compound .compound-last, div.compound .compound-middle {
+  margin-top: 0.5em }
+*/
+
+div.dedication {
+  margin: 2em 5em ;
+  text-align: center ;
+  font-style: italic }
+
+div.dedication p.topic-title {
+  font-weight: bold ;
+  font-style: normal }
+
+div.figure {
+  margin-left: 2em ;
+  margin-right: 2em }
+
+div.footer, div.header {
+  clear: both;
+  font-size: smaller }
+
+div.line-block {
+  display: block ;
+  margin-top: 1em ;
+  margin-bottom: 1em }
+
+div.line-block div.line-block {
+  margin-top: 0 ;
+  margin-bottom: 0 ;
+  margin-left: 1.5em }
+
+div.sidebar {
+  margin: 0 0 0.5em 1em ;
+  border: medium outset ;
+  padding: 1em ;
+  background-color: #ffffee ;
+  width: 40% ;
+  float: right ;
+  clear: right }
+
+div.sidebar p.rubric {
+  font-family: sans-serif ;
+  font-size: medium }
+
+div.system-messages {
+  margin: 5em }
+
+div.system-messages h1 {
+  color: red }
+
+div.system-message {
+  border: medium outset ;
+  padding: 1em }
+
+div.system-message p.system-message-title {
+  color: red ;
+  font-weight: bold }
+
+div.topic {
+  margin: 2em }
+
+h1.section-subtitle, h2.section-subtitle, h3.section-subtitle,
+h4.section-subtitle, h5.section-subtitle, h6.section-subtitle {
+  margin-top: 0.4em }
+
+h1.title {
+  text-align: center }
+
+h2.subtitle {
+  text-align: center }
+
+hr.docutils {
+  width: 75% }
+
+img.align-left, .figure.align-left, object.align-left {
+  clear: left ;
+  float: left ;
+  margin-right: 1em }
+
+img.align-right, .figure.align-right, object.align-right {
+  clear: right ;
+  float: right ;
+  margin-left: 1em }
+
+img.align-center, .figure.align-center, object.align-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.align-left {
+  text-align: left }
+
+.align-center {
+  clear: both ;
+  text-align: center }
+
+.align-right {
+  text-align: right }
+
+/* reset inner alignment in figures */
+div.align-right {
+  text-align: inherit }
+
+/* div.align-center * { */
+/*   text-align: left } */
+
+ol.simple, ul.simple {
+  margin-bottom: 1em }
+
+ol.arabic {
+  list-style: decimal }
+
+ol.loweralpha {
+  list-style: lower-alpha }
+
+ol.upperalpha {
+  list-style: upper-alpha }
+
+ol.lowerroman {
+  list-style: lower-roman }
+
+ol.upperroman {
+  list-style: upper-roman }
+
+p.attribution {
+  text-align: right ;
+  margin-left: 50% }
+
+p.caption {
+  font-style: italic }
+
+p.credits {
+  font-style: italic ;
+  font-size: smaller }
+
+p.label {
+  white-space: nowrap }
+
+p.rubric {
+  font-weight: bold ;
+  font-size: larger ;
+  color: maroon ;
+  text-align: center }
+
+p.sidebar-title {
+  font-family: sans-serif ;
+  font-weight: bold ;
+  font-size: larger }
+
+p.sidebar-subtitle {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+p.topic-title {
+  font-weight: bold }
+
+pre.address {
+  margin-bottom: 0 ;
+  margin-top: 0 ;
+  font: inherit }
+
+pre.literal-block, pre.doctest-block, pre.math, pre.code {
+  margin-left: 2em ;
+  margin-right: 2em }
+
+pre.code .ln { color: grey; } /* line numbers */
+pre.code, code { background-color: #eeeeee }
+pre.code .comment, code .comment { color: #5C6576 }
+pre.code .keyword, code .keyword { color: #3B0D06; font-weight: bold }
+pre.code .literal.string, code .literal.string { color: #0C5404 }
+pre.code .name.builtin, code .name.builtin { color: #352B84 }
+pre.code .deleted, code .deleted { background-color: #DEB0A1}
+pre.code .inserted, code .inserted { background-color: #A3D289}
+
+span.classifier {
+  font-family: sans-serif ;
+  font-style: oblique }
+
+span.classifier-delimiter {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+span.interpreted {
+  font-family: sans-serif }
+
+span.option {
+  white-space: nowrap }
+
+span.pre {
+  white-space: pre }
+
+span.problematic {
+  color: red }
+
+span.section-subtitle {
+  /* font-size relative to parent (h1..h6 element) */
+  font-size: 80% }
+
+table.citation {
+  border-left: solid 1px gray;
+  margin-left: 1px }
+
+table.docinfo {
+  margin: 2em 4em }
+
+table.docutils {
+  margin-top: 0.5em ;
+  margin-bottom: 0.5em }
+
+table.footnote {
+  border-left: solid 1px black;
+  margin-left: 1px }
+
+table.docutils td, table.docutils th,
+table.docinfo td, table.docinfo th {
+  padding-left: 0.5em ;
+  padding-right: 0.5em ;
+  vertical-align: top }
+
+table.docutils th.field-name, table.docinfo th.docinfo-name {
+  font-weight: bold ;
+  text-align: left ;
+  white-space: nowrap ;
+  padding-left: 0 }
+
+/* "booktabs" style (no vertical lines) */
+table.docutils.booktabs {
+  border: 0px;
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+  border-collapse: collapse;
+}
+table.docutils.booktabs * {
+  border: 0px;
+}
+table.docutils.booktabs th {
+  border-bottom: thin solid;
+  text-align: left;
+}
+
+h1 tt.docutils, h2 tt.docutils, h3 tt.docutils,
+h4 tt.docutils, h5 tt.docutils, h6 tt.docutils {
+  font-size: 100% }
+
+ul.auto-toc {
+  list-style-type: none }
+
+</style>
+</head>
+<body>
+<div class="document">
 
 
-.. raw:: html
-  :file: lieux.html
 
-Les conférences
-----------------
-
-
-FabLab/Artilect
-+++++++++++++++
-
-Le détail complet sur `cette page </culture-crea-2d-3d-libre.html>`_.
-
-Etincelle Corworking
-++++++++++++++++++++++++
-
-De 14h00 à 18h30 pour parler DevOps. Les conférences suivantes sont confirmées :
-
-- 14h00 - 15h00 `Challenges d'un déploiement OpenStack et bonnes pratiques de consommation IaaS (Adrien Cunin) <https://2015.capitoledulibre.org/programme/presentation/38/>`_
-- 15h00 - 16h00 `Gestion de containers avec Docker, Kubernetes et Atomic (Michael Scherer) <https://2015.capitoledulibre.org/programme/presentation/41/>`_
-- 16h00 - 16h30 Pause
-- 16h30 - 17h30 `Docker, au delà du simple container (Adrien Blind) <https://2015.capitoledulibre.org/programme/presentation/120/>`_
-- 17h30 - 18h30 `L'infrastructure de Mozilla (Ludovic Hirlimann) <https://2015.capitoledulibre.org/programme/presentation/40/>`_
-
-Nombre de places limitées, inscrivez vous sur le groupe `Meetup Toulouse DevOps <http://www.meetup.com/fr/Toulouse-DevOps/events/226700021/>`_.
-
-Ekito
-+++++++++++++++
-
-Si vous aimez le développement, si vous aimez aider à faire de beaux logiciels, si vous voulez contribuer au Logiciel Libre,
-venez rencontrer la communauté KDE française qui abordera les tests automatisés, le remaniement de code, l'optimisation,
-la traduction et la promotion de Logiciels Libres. 
-
-Samedi 21 Novembre
-******************
-
-Ouverture à 9h30, démarrage des conférences à 11h.
-
-=========== ================================================================================================================ ================================
-Horaire     Titre                                                                                                            Orateur(s)
-=========== ================================================================================================================ ================================
-11h00-12h00 `Doublures de tests: le pouvoir du doppelgänger <https://2015.capitoledulibre.org/programme/presentation/99/>`_  Franck Arrecot, Kévin Ottens
-12h00-14h00 Pause Déjeuner
-14h00-15h00 `Optimisations du code et bonnes pratiques <https://2015.capitoledulibre.org/programme/presentation/101/>`_      Laurent Montel
-15h00-16h00 `Traduire les Logiciels Libres <https://2015.capitoledulibre.org/programme/presentation/90/>`_                   Sébastien Renard
-16h00-16h30 Pause
-16h30-17h30 `Refactoring, ou comment nettoyer du code ancien <https://2015.capitoledulibre.org/programme/presentation/88/>`_ Sébastien Renard, Franck Arrecot
-17h30-18h00 `La promotion des projets KDE en France <https://2015.capitoledulibre.org/programme/presentation/113/>`_         Benjamin Port
-=========== ================================================================================================================ ================================
-
-Dimanche 22 Novembre
-********************
-
-Ouverture à 9h30, démarrage de l'atelier à 10h.
-
-=========== ============================================================================================== ================================
-Horaire     Titre                                                                                          Orateur(s)
-=========== ============================================================================================== ================================
-10h00-13h00 `Refactoring: Mise en pratique <https://2015.capitoledulibre.org/programme/presentation/89/>`_ Sébastien Renard, Franck Arrecot
-=========== ============================================================================================== ================================
-
-Mix’art Myrys
-+++++++++++++
-
-Ouverture à partir de 14h le samedi.
-
-A noter qu’une participation libre mais nécessaire sera demandée.
-
-Samedi 21 Novembre
-******************
-
-Salle 1
-~~~~~~~
-
-=========== ===========================================================================================================================================  ==================
-Horaire     Titre                                                                                          												                       Orateur(s)
-=========== ===========================================================================================================================================  ==================
-14h00-15h00 `Dégooglisons Internet <https://2015.capitoledulibre.org/programme/presentation/23/>`_         												                       Genma et Pouhiou
-15h00-16h30 `Rage against the machine - De quoi devons-nous aujourd'hui nous libérer ? <https://2015.capitoledulibre.org/programme/presentation/114/>`_	 Jérémie Zimmermann
-16h30-18h00 `Ce que font les exégètes amateurs dans leur garage <https://2015.capitoledulibre.org/programme/presentation/8/>`_ 							             Benjamin Bayart
-=========== ===========================================================================================================================================  ==================
-
-Salle 2
-~~~~~~~
-
-=========== ==========================================================================================================================  ===================================
-Horaire     Titre                                                                                                                       Orateur(s) 
-=========== ==========================================================================================================================  ===================================
-14h00-15h00 `Expérimentation dans le DNS : le projet Yeti <https://2015.capitoledulibre.org/programme/presentation/71/>`_               Stéphane Bortzmeyer
-15h00-16h00 `Libérer son mobile avec Replicant : politique, technique <https://2015.capitoledulibre.org/programme/presentation/14/>`_   Paul Kocialkowski, Benjamin Bayart
-16h00-17h00 `Open Hardware <https://2015.capitoledulibre.org/programme/presentation/47/>`_                                              Thibault Cantegrel
-=========== ==========================================================================================================================  ===================================
-
-Double Dragon, ateliers
-~~~~~~~~~~~~~~~~~~~~~~~
-
-=========== ============================================================================================== ==================================
-Horaire     Titre                                                                                          Orateur(s)
-=========== ============================================================================================== ==================================
-14h00-16h00 `La Brique Camp <https://2015.capitoledulibre.org/programme/presentation/97/>`_                Taziden
-=========== ============================================================================================== ==================================
-
-Vers 19h, tout le monde passe avec vigueur à l'apéro, qui sera probablement animé par le célèbre Jz.
-
-Dimanche 22 Novembre
-********************
-
-Salle 1
-~~~~~~~
-
-=========== ==========================================================================================================================================================  ===================
-Horaire     Titre                                                                                                                                                       Orateur(s)
-=========== ==========================================================================================================================================================  ===================
-14h00-15h00 `Du Libre aux Communs de la connaissance : pour un dépassement de l'idéologie propriétaire <https://2015.capitoledulibre.org/programme/presentation/10/>`_  Lionel Maurel
-15h00-16h00 `Relire Foucault à l'ère Snowden <https://2015.capitoledulibre.org/programme/presentation/21/>`_                                                            Oriane PIQUER-LOUIS
-16h00-17h00 `Licences libres + le droit de la rétroingénierie en France et en Europe <https://2015.capitoledulibre.org/programme/presentation/87/>`_                    Hugo Roy
-17h00       ranger son bazar, le merci à tous                                                                                                                           Toulibre
-=========== ==========================================================================================================================================================  ===================
-
-Salle 2
-~~~~~~~
-
-=========== ================================================================================================================================  ================
-Horaire     Titre                                                                                                                             Orateur(s)
-=========== ================================================================================================================================  ================
-14h00-15h00 `Auto-hébergement <https://2015.capitoledulibre.org/programme/presentation/95/>`_                                                 Elzen
-15h00-16h00 `L'authentification centralisé facile avec FreeIPA et Ipsilon <https://2015.capitoledulibre.org/programme/presentation/119/>`_    Michael Scherer
-16h00-16h30 `La diva de la ligne de commande <https://2015.capitoledulibre.org/programme/presentation/78/>`_                                  Alex Marandon
-16h30-17h00 créneau du bazar                                                                               
-=========== ================================================================================================================================  ================
-
-Double Dragon, ateliers
-~~~~~~~~~~~~~~~~~~~~~~~
-
-=========== ============================================================================================== ==================================
-Horaire     Titre                                                                                          Orateur(s)
-=========== ============================================================================================== ==================================
-Matin       créneau libre du bazar, dwtfyw.
-14h00-16h00 `Initiation à Tor et Tails <https://2015.capitoledulibre.org/programme/presentation/117/>`_    Syl
-=========== ============================================================================================== ==================================
-
-Bar de la Bulle
-~~~~~~~~~~~~~~~
-
-=========== ============================================================================================== ==================================
-Horaire     Titre                                                                                          Orateur(s)
-=========== ============================================================================================== ==================================
-11h00-13h00 `« Politiser le numérique ? » <https://2015.capitoledulibre.org/programme/presentation/116/>`_ Taziden et piks3l
-=========== ============================================================================================== ==================================
-
-
-Les goodies
-------------
-
-Ils seront en vente à MixArt Myrys
-
-Install Party
--------------
-
-Aucune install party n’est prévu pour ce week-end.
-
-Remerciement
-------------
-
-* A `Elisa <http://yemanjalisa.fr/>`_ pour le logo et le design ;
-* A Ekito, Artilect/La Serre, Etincelle Coworking, Mix'Art Myrys, La Cantinne, Tau, Epitech et d’autres pour leur propositions d’accueil ;
-* A tous les bénévoles qui nous aident depuis lundi pour organiser ce Bazar du Libre.
-
-Partenaires
------------
-
-.. raw:: html
-  :file: partenaires.html
+</div>
+</body>
+</html>
