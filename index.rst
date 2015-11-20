@@ -204,3 +204,9 @@ Remerciement
 * A `Elisa <http://yemanjalisa.fr/>`_ pour le logo et le design ;
 * A Ekito, Artilect/La Serre, Etincelle Coworking, Mix'Art Myrys, La Cantinne, Tau, Epitech et d’autres pour leur propositions d’accueil ;
 * A tous les bénévoles qui nous aident depuis lundi pour organiser ce Bazar du Libre.
+
+Partenaires
+-----------
+
+.. raw:: html
+  :file: partenaires.html
