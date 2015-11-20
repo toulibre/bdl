@@ -11,8 +11,6 @@
 
 Ou comment organiser un événement en quatre jours…
 
-Plus de détails, dans les prochaines heures.
-
 Le `Capitole du Libre 2015 <http://2015.capitoledulibre.org>`_ n'est plus, vive le Bazar du Libre !
 
 En résumé, les lieux, les rencontres
@@ -234,7 +232,7 @@ Remerciement
 ------------
 
 * A `Elisa <http://yemanjalisa.fr/>`_ pour le logo et le design ;
-* A Ekito, Artilect/La Serre, Etincelle Coworking, Mix'Art Myrys, La Cantinne, Tau, Epitech et d’autres pour leur propositions d’accueil ;
+* A Ekito, Artilect/La Serre, Etincelle Coworking, Mix'Art Myrys, La Cantine, Tau, Epitech et d’autres pour leur propositions d’accueil ;
 * A tous les bénévoles qui nous aident depuis lundi pour organiser ce Bazar du Libre.
 
 Partenaires
