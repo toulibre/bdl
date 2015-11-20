@@ -197,7 +197,7 @@ Horaire     Titre                                                               
 14h00-15h00 `Auto-hébergement <https://2015.capitoledulibre.org/programme/presentation/95/>`_                                                 Elzen
 15h00-16h00 `L'authentification centralisé facile avec FreeIPA et Ipsilon <https://2015.capitoledulibre.org/programme/presentation/119/>`_    Michael Scherer
 16h00-16h30 `La diva de la ligne de commande <https://2015.capitoledulibre.org/programme/presentation/78/>`_                                  Alex Marandon
-16h30-17h00 créneau du bazar                                                                               
+16h30-17h00 `Libérez vos mails ! <https://2015.capitoledulibre.org/programme/presentation/82/>`_                                              Jérémie Pogeant            
 =========== ================================================================================================================================  ================
 
 Double Dragon, ateliers
