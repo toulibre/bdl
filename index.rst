@@ -135,6 +135,8 @@ Ouverture à partir de 14h le samedi.
 
 A noter qu’une participation libre mais nécessaire sera demandée.
 
+Possibilité de suivre les conférences des salles 1 et 2 sur `radio.bazardulibre.org <http://radio.bazardulibre.org>`_
+
 Samedi 21 Novembre
 ******************
 
