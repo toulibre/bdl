@@ -218,6 +218,7 @@ Bar de la Bulle
 Horaire     Titre                                                                                          Orateur(s)
 =========== ============================================================================================== ==================================
 11h00-13h00 `« Politiser le numérique ? » <https://2015.capitoledulibre.org/programme/presentation/116/>`_ Taziden et piks3l
+14h00-?     Démo FreeCAD, CAO libre                                                                        Jonathan Wiedemann
 =========== ============================================================================================== ==================================
 
 
