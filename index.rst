@@ -129,7 +129,9 @@ Horaire     Titre                                                               
 Mix’art Myrys
 +++++++++++++
 
-Ouverture à partir de 14h le samedi.
+Ouverture à partir de 14h le samedi. 
+
+**Attention ! En raison d’un match de rugby, le stationnement est interdit rue Ferdinand Lassalle, ce samedi jusqu’à 20:30-21:00. Les voitures seront mises à la fourrière.**
 
 A noter qu’une participation libre mais nécessaire sera demandée.
 
