@@ -129,7 +129,9 @@ Horaire     Titre                                                               
 Mix’art Myrys
 +++++++++++++
 
-Ouverture à partir de 14h le samedi.
+Ouverture à partir de 14h le samedi. 
+
+**Attention ! En raison d’un match de rugby, le stationnement est interdit rue Ferdinand Lassalle, ce samedi jusqu’à 20:30-21:00. Les voitures seront mises à la fourrière.**
 
 A noter qu’une participation libre mais nécessaire sera demandée.
 
@@ -163,11 +165,12 @@ Horaire     Titre                                                               
 Double Dragon, ateliers
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-=========== ============================================================================================== ==================================
-Horaire     Titre                                                                                          Orateur(s)
-=========== ============================================================================================== ==================================
-14h00-16h00 `La Brique Camp <https://2015.capitoledulibre.org/programme/presentation/97/>`_                Taziden
-=========== ============================================================================================== ==================================
+=========== =================================================================================================== ==================================
+Horaire     Titre                                                                                               Orateur(s)
+=========== =================================================================================================== ==================================
+14h00-16h00 `La Brique Camp <https://2015.capitoledulibre.org/programme/presentation/97/>`_                     Taziden
+16h00-17h00 `Linux au coeur du salon connecté <https://2015.capitoledulibre.org/programme/presentation/20/>`_   Daniel Macaud
+=========== =================================================================================================== ==================================
 
 Vers 19h, tout le monde passe avec vigueur à l'apéro, qui sera probablement animé par le célèbre Jz.
 
@@ -205,7 +208,6 @@ Double Dragon, ateliers
 =========== =================================================================================================== ==================================
 Horaire     Titre                                                                                               Orateur(s)
 =========== =================================================================================================== ==================================
-11h00-13h00 `Linux au coeur du salon connecté <https://2015.capitoledulibre.org/programme/presentation/20/>`_   Daniel Macaud
 14h00-16h00 `Initiation à Tor et Tails <https://2015.capitoledulibre.org/programme/presentation/117/>`_         Syl
 =========== =================================================================================================== ==================================
 
@@ -216,6 +218,7 @@ Bar de la Bulle
 Horaire     Titre                                                                                          Orateur(s)
 =========== ============================================================================================== ==================================
 11h00-13h00 `« Politiser le numérique ? » <https://2015.capitoledulibre.org/programme/presentation/116/>`_ Taziden et piks3l
+14h00-?     Démo FreeCAD, CAO libre                                                                        Jonathan Wiedemann
 =========== ============================================================================================== ==================================
 
 
