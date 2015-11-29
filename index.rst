@@ -87,7 +87,7 @@ De 14h00 à 18h30 pour parler DevOps. Les conférences suivantes sont confirmée
 Horaire     Titre                                                                                                                                           Orateur(s)
 =========== =============================================================================================================================================== =================
 14h00-15h00 `Challenges d'un déploiement OpenStack et bonnes pratiques de consommation IaaS <https://2015.capitoledulibre.org/programme/presentation/38/>`_ Adrien Cunin
-15h00-16h00 `Gestion de containers avec Docker, Kubernetes et Atomic () <https://2015.capitoledulibre.org/programme/presentation/41/>`_                     Michael Scherer
+15h00-16h00 `Gestion de containers avec Docker, Kubernetes et Atomic <https://2015.capitoledulibre.org/programme/presentation/41/>`_                        Michael Scherer
 16h00-16h30 Pause
 16h30-17h30 `Docker, au delà du simple container <https://2015.capitoledulibre.org/programme/presentation/120/>`_                                           Adrien Blind
 17h30-18h30 `L'infrastructure de Mozilla <https://2015.capitoledulibre.org/programme/presentation/40/>`_                                                    Ludovic Hirlimann
