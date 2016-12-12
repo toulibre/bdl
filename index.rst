@@ -239,7 +239,7 @@ Aucune install party n’est prévu pour ce week-end.
 Vidéos
 ------
 
-Les vidéos peuvent `être visioné ici. <http://videos.bazardulibre.toulibre.org>`_
+Les vidéos peuvent `être visionées ici. <http://videos.bazardulibre.toulibre.org>`_
 
 Remerciement
 ------------
